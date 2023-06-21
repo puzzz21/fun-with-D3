@@ -1,0 +1,5 @@
+/* centers the text labels */
+text {
+  text-anchor: middle;
+  dominant-baseline: ideographic;  
+}
